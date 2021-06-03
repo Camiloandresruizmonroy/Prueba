@@ -1,0 +1,15 @@
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.exe
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.deps.json
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.runtimeconfig.json
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.runtimeconfig.dev.json
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.dll
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\bin\Debug\netcoreapp3.1\CursoProgramacion.pdb
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.csproj.AssemblyReference.cache
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.Form1.resources
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.csproj.GenerateResource.cache
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.AssemblyInfoInputs.cache
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.AssemblyInfo.cs
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.dll
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.pdb
+C:\Users\camil\Documents\GitHub\Prueba\Curso de C#\CursoProgramacion\CursoProgramacion\obj\Debug\netcoreapp3.1\CursoProgramacion.genruntimeconfig.cache
