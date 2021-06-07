@@ -24,7 +24,19 @@ namespace CursoProgramacion
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Texto Cambiado";
+            string textoEdad = txtEdad.Text;
+            int edad = Int32.Parse(textoEdad);
+            bool esMayorDeEdad = edad >= 18;
+
+            
+            if (esMayorDeEdad)
+            {
+                lblResultado.Text = "El usuario es mayor de edad";
+            }
+
+            else {
+                lblResultado.Text = "El usuario es menor de edad";
+            }
         }
     }
 }
