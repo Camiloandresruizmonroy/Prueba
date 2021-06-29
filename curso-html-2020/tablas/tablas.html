@@ -6,7 +6,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Tablas</title>
         <style>
-            td{
+            col:nth-child(1){
+                background-color: lightcoral;
+            }
+            col:nth-child(2){
                 background-color: steelblue;
             }
         </style>
@@ -15,6 +18,10 @@
         <h1>Tablas</h1>
         <table>
             <caption>HORARIO DE CLASES</caption>
+            <colgroup>
+                <col span="5">
+                <col>
+            </colgroup>
             <thead>
                 <tr>
                     <th></th>
